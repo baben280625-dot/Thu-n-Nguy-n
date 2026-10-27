@@ -1,0 +1,6 @@
+{
+  "name": "RealCore Auto Call CRM Bất Động Sản",
+  "description": "Hệ thống quản lý quan hệ khách hàng và tự động quay số cho môi giới bất động sản với đồng bộ Google Sheets hai chiều.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
